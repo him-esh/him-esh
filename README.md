@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **c and c++ language**
 
-- 📫 How to reach me **hieshgeu792@gmail.com**
+- 📫 How to reach me **himeshgeu792@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
